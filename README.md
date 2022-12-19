@@ -9,4 +9,4 @@ This is a simple Tic-Tac-Toe game in the console that I made after I completed a
 
 ## Screenshots
  ![image](https://i.imgur.com/pxEP11A.png)
- ![image2]([https://i.imgur.com/pxEP11A.png](https://i.imgur.com/V57SDic.png))
+ ![image2](https://i.imgur.com/V57SDic.png)
